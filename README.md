@@ -8,7 +8,7 @@
 <br>
 
 ### ⚡️ Quick Stats
-* Graduated from TOP100 CS School
+* Graduated from TOP250 CS School
 * Monolingual (Fluent in English)
 * 99.998% Uptime as SWE Intern with Read-Only Access
 * Never Failed a Self-Evaluation
@@ -64,4 +64,4 @@
 ## 💡 Random Dev Quotes
 > "Talk is cheap. Show me the code." - Linus Torvalds
 
-> "You don't know what you're talking about." - Senior Software Engineer at Paypal, to Unnamed CS Grad from TOP100 School
+> "You don't know what you're talking about." - Senior Software Engineer at Paypal, to Unnamed CS Grad from TOP250 School
