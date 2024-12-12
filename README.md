@@ -64,4 +64,4 @@
 ## 💡 Random Dev Quotes
 > "Talk is cheap. Show me the code." - Linus Torvalds
 
-> "You don't know what you're talking about." - Senior Software Engineer at Paypal, to Unnamed CS Grad from TOP250 School
+> "You don't know what you're talking about." - Senior Software Engineer at Paypal, to TOP250 CS School Grad Who Wishes to Remain Anonymous 
